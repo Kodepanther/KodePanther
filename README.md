@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**Kodepanther/KodePanther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 🙋‍♂️appears
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my Data Analysis Career and Building my Power platform portfolio 
+- 🌱 I’m currently learning Power BI
+- 👯 I’m looking to collaborate on Power Platform projects
+- 🤔 I’m looking for help with learning Data Analysis 
+- 💬 Ask me about my learning journey 
+- 📫 How to reach me: https://twitter.com/KorpBrother
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing Video Games (FIFA Is my favourite)
+
