@@ -1,3 +1,5 @@
+<img src='/standard.gif' alt="banner"></img>
+
 ### Hi there 🙋‍♂️appears
 
 Here are some ideas to get you started:
