@@ -1,6 +1,6 @@
 <img src='/standard.gif' alt="banner"></img>
 
-### Hi there 🙋‍♂️appears
+### Hi there 🙋‍♂️
 
 Here are some ideas to get you started:
 
